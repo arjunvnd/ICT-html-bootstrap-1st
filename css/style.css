@@ -1,0 +1,111 @@
+body{ 
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    
+    background-color:#d0d0d0;
+    height: 65px;
+}
+
+
+
+#branding{
+    font-size: 18pt;
+    color: beige;
+    float: left;
+    margin: 10px;
+    
+}
+
+header nav{ 
+    float: left;
+    
+    margin: 0px;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+header a{
+    text-decoration: none;
+    color:#000000;
+}
+
+header .current{
+    color: white;
+    
+}
+header form{
+    float: right;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+#mainpart{
+    height: 700px;
+    border: 1px solid black;
+    margin: 5px
+    
+}
+.sidebox{
+    float: left;
+    border: 1px solid black;
+    width: 21%;
+    height: inherit;
+    margin: 5px
+
+}
+
+
+#main{
+    float: left;
+    border: 1px solid black;
+    width: 55%;
+    height: inherit;
+    margin: 5px
+
+}
+
+footer h4{
+    margin: 0;
+    padding: 13px;
+    text-align: center;
+}
+
+
+
+
+
+
+        #courses{
+            height: 150px;
+            width: 150px;
+        }
+        .forc{
+            text-align: center;
+            color: orange;
+            font-size: 30px;
+            
+        }
+        #calicut{
+            height: 100%;
+            width: 100%;
+        }
+ 
+
+        /* About */
+        .dark{
+            background-color: darkgray;
+            padding: 10px;
+
+        }
